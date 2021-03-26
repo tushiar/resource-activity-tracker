@@ -1,0 +1,16 @@
+.alignment__Application {
+  width: 130px;
+  text-align: center;
+}
+.alignment__Dates {
+  min-width: 20px;
+  width: 65px;
+  text-align: center;
+}
+.alignment__Name__field,
+.form-control {
+  font-size: small;
+}
+.table {
+  text-align: center;
+}
